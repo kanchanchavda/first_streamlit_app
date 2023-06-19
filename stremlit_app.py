@@ -1,4 +1,4 @@
 import stremlit
 streamlit.title ("My parents New Healthy Diner')
-Breakfast menu
-Omega 3 and Blue berry Oatmeal
+streamlit.hearder("Breakfast menu"
+streamlit.text ("Omega 3 and Blue berry Oatmeal")
