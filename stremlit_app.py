@@ -34,4 +34,4 @@ streamlit.dataframe(my_data_rows)
 # Allow end user to add fruit to the list
 add_my_fruit = streamlit.text_input('Please enter fruit of your choice.",Jackfruit)
 streamlit.write('The user entered ', Add_my_fruit)
-streamlit.response('Thanks for response' )                                   
+                                 
